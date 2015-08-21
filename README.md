@@ -1,5 +1,7 @@
 # PoolMonitor
 
+Basic system that displays your pool's water temperature.
+
 ## Parts
 
 - 1 - [Arduino Uno R3](http://store-usa.arduino.cc/products/a000066) 
@@ -36,7 +38,12 @@
 `To connect the 4.7K resistor, you could use a breadboard or just strip the cable and connected it directly like I did for a more permanent solution.
 ` 
 
+## Installation Arduino 
+
+1. Download the [PoolMonitor Sketch](https://github.com/mv740/PoolMonitor/blob/master/PoolMonitor/PoolMonitor.ino)
+2. Upload it to your Ardruino and it will start right away 
 
 ## LCD OUTPUT 
 
 <img src="https://github.com/mv740/PoolMonitor/blob/master/LCDoutput.PNG" width="320">
+
